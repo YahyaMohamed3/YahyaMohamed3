@@ -1,5 +1,34 @@
-# 💫 About Me:
-Hello! I'm a first-year college student with a strong interest in Software Engineering, especially in Artificial Intelligence (AI) and Machine Learning (ML). I have hands-on experience in developing systems for healthcare, physical therapy platforms, and now high-frequency trading simulations.<br><br>Education & Background<br>I have completed several Harvard courses, including CS50x , CS50W and CS50 AI, which strengthened my foundation in computer science and artificial intelligence. These courses, along with my personal projects, have given me a deep appreciation for the challenges and dedication involved in building reliable software solutions.<br><br>💼 Current Projects<br>High-Frequency Trading Simulation with RL: Currently, I’m developing a distributed system that leverages Multi-Agent Reinforcement Learning (MARL). This project involves order matching, latency optimization, and the integration of RL algorithms like Q-Learning, DQN, PPO, and MARL.<br>MediFlow: A healthcare management system built as a comprehensive platform for symptom tracking and patient support.<br>🔧 Skills & Tools<br>Languages: Python, JavaScript, C , SQL<br>Frameworks: React , Django , Flask, Bootstrap<br>Machine Learning: Reinforcement Learning, Multi-Agent Systems<br>Goals<br>My goal is to advance my understanding of AI/ML and secure an internship in tech. Currently, I’m exploring Multi-Agent Reinforcement Learning for trading and working toward proficiency in Distributed Systems and HFT.<br><br>📫 Get in Touch<br>Feel free to reach out if you’d like to discuss tech, collaborate on a project, or chat about AI/ML!<br>Yahya11212006@gmail.com
+# Welcome to My GitHub! 👋
+
+## 💫 About Me
+Hello! I'm a first-year college student with a strong interest in **Software Engineering**, especially in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I have hands-on experience in developing systems for clinic platforms, and now high-frequency trading simulations.
+
+### Education & Background
+I have completed several Harvard courses, including **CS50x**, **CS50W**, and **CS50 AI**, which strengthened my foundation in computer science and artificial intelligence. These courses, along with my personal projects and ongoing research, have given me a deep appreciation for the challenges and dedication involved in building reliable software solutions.
+
+## 💼 Current Projects
+- **High-Frequency Trading Simulation with RL**: Currently, I’m developing a distributed system that leverages **Multi-Agent Reinforcement Learning (MARL)**. This project involves **order matching**, **latency optimization**, and the integration of **RL algorithms** like **Q-Learning, DQN, PPO**, and MARL.
+- **MediFlow**: A healthcare management system built as a comprehensive platform for clincs and patient support.
+
+## 🔍 Research
+I'm actively involved in **Multi-Agent Reinforcement Learning (MARL) research** at my college, where I’m focused on how MARL can be applied to financial markets and trading simulations. This research aims to enhance my skills in **Distributed Systems** and **High-Frequency Trading**.
+
+## 🔧 Skills & Tools
+- **Languages**: Python, JavaScript, C, SQL
+- **Frameworks & Libraries**: React (currently learning), Django, Flask, Bootstrap, Socket.io
+- **Web Development**: HTML, CSS, REST APIs, Client-Server Architecture
+- **Machine Learning & AI**: Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Q-Learning, DQN, PPO
+- **CS50 AI**: Search Algorithms, Optimization, Natural Language Processing, Knowledge Representation
+- **CS50 Web**: Django, SQL, Authentication, JavaScript (ES6+), Frontend & Backend Integration
+- **CS50x Topics**: C Programming, Data Structures, Memory Management, Algorithms (Sorting, Searching), Problem-Solving
+
+## 🚀 Goals
+My goal is to advance my understanding of AI/ML and secure an internship in tech. Currently, I’m exploring **Multi-Agent Reinforcement Learning** for trading and working toward proficiency in **Distributed Systems** and **HFT**.
+
+## 📫 Get in Touch
+Feel free to reach out if you’d like to discuss tech, collaborate on a project, or chat about AI/ML!  
+📧 **Email**: Yahya11212006@gmail.com
+
 
 
 # 💻 Tech Stack:
