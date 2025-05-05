@@ -15,7 +15,7 @@ I'm actively involved in **Multi-Agent Reinforcement Learning (MARL) research** 
 
 ## 🔧 Skills & Tools
 - **Languages**: Python, JavaScript, C, SQL
-- **Frameworks & Libraries**: React (currently learning), Django, Flask, Bootstrap, Socket.io
+- **Frameworks & Libraries**: React , Django, Flask, Bootstrap, Socket.io
 - **Web Development**: HTML, CSS, REST APIs, Client-Server Architecture
 - **Machine Learning & AI**: Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Q-Learning, DQN, PPO
 - **CS50 AI**: Search Algorithms, Optimization, Natural Language Processing, Knowledge Representation
