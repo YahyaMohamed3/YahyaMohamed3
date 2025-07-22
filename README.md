@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 👋
 
 ## 💫 About Me
-Hello! I'm a first-year college student with a strong interest in **Software Engineering**, especially in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I have hands-on experience in developing systems for clinic platforms, and now high-frequency trading simulations.
+Hello! I'm a second-year college student with a strong interest in **Software Engineering**, especially in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I have hands-on experience in developing systems for clinic platforms, and now high-frequency trading simulations.
 
 ### Education & Background
 I have completed several Harvard courses, including **CS50x**, **CS50W**, and **CS50 AI**, which strengthened my foundation in computer science and artificial intelligence. These courses, along with my personal projects and ongoing research, have given me a deep appreciation for the challenges and dedication involved in building reliable software solutions.
@@ -9,15 +9,16 @@ I have completed several Harvard courses, including **CS50x**, **CS50W**, and **
 ## 💼 Current Projects
 - **High-Frequency Trading Simulation with RL**: Currently, I’m developing a distributed system that leverages **Multi-Agent Reinforcement Learning (MARL)**. This project involves **order matching**, **latency optimization**, and the integration of **RL algorithms** like **Q-Learning, DQN, PPO**, and MARL.
 - **MediFlow**: A healthcare management system built as a comprehensive platform for clincs and patient support.
+- -- **Bolt's World's Largest Hackathon**: built and trained two SOTA Models one clinical model able to indeitfy 7 canceropus lesions with an uprecdented 97% top-2 accuracy using tesnforlow, then build and depyed full stack app using fastapi for the backend react + typescript for the frontend along with tailwind css used Supabase for auth and iteration deployed backend on google cloud and frontend on Netlify.
 
 ## 🔍 Research
 I'm actively involved in **Multi-Agent Reinforcement Learning (MARL) research** at my college, where I’m focused on how MARL can be applied to financial markets and trading simulations. This research aims to enhance my skills in **Distributed Systems** and **High-Frequency Trading**.
 
 ## 🔧 Skills & Tools
-- **Languages**: Python, JavaScript, C, SQL
-- **Frameworks & Libraries**: React , Django, Flask, Bootstrap, Socket.io
+- **Languages**: Python, JavaScript, TypeScript, C/c++, SQL ( currenlty learning java)
+- **Frameworks & Libraries**: React , Django, Flask, Bootstrap, Socket.io, Fast-api, Spring-boot
 - **Web Development**: HTML, CSS, REST APIs, Client-Server Architecture
-- **Machine Learning & AI**: Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Q-Learning, DQN, PPO
+- **Machine Learning & AI**: Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Q-Learning, DQN, PPO, Computer Vision m Transsfer Learning
 - **CS50 AI**: Search Algorithms, Optimization, Natural Language Processing, Knowledge Representation
 - **CS50 Web**: Django, SQL, Authentication, JavaScript (ES6+), Frontend & Backend Integration
 - **CS50x Topics**: C Programming, Data Structures, Memory Management, Algorithms (Sorting, Searching), Problem-Solving
@@ -29,6 +30,9 @@ My goal is to advance my understanding of AI/ML and secure an internship in tech
 Feel free to reach out if you’d like to discuss tech, collaborate on a project, or chat about AI/ML!  
 📧 **Email**: Yahya11212006@gmail.com
 
+## Right now 
+- **Pursuing publication on SOTA Skin cancer ML Model**: Clinical model results were so good and accurate they desrve to atleats be published
+- Wokring on gettting a deeper understanding of c++ building trading system order matching engine order book etc.
 
 
 # 💻 Tech Stack:
