@@ -7,9 +7,20 @@ Hello! I'm a second-year college student with a strong interest in **Software En
 I have completed several Harvard courses, including **CS50x**, **CS50W**, and **CS50 AI**, which strengthened my foundation in computer science and artificial intelligence. These courses, along with my personal projects and ongoing research, have given me a deep appreciation for the challenges and dedication involved in building reliable software solutions.
 
 ## 💼 Current Projects
-- **High-Frequency Trading Simulation with RL**: Currently, I’m developing a distributed system that leverages **Multi-Agent Reinforcement Learning (MARL)**. This project involves **order matching**, **latency optimization**, and the integration of **RL algorithms** like **Q-Learning, DQN, PPO**, and MARL.
-- **MediFlow**: A healthcare management system built as a comprehensive platform for clincs and patient support.
-- -- **Bolt's World's Largest Hackathon**: built and trained two SOTA Models one clinical model able to indeitfy 7 canceropus lesions with an uprecdented 97% top-2 accuracy using tesnforlow, then build and depyed full stack app using fastapi for the backend react + typescript for the frontend along with tailwind css used Supabase for auth and iteration deployed backend on google cloud and frontend on Netlify.
+- **High-Frequency Trading Simulation with RL**: Developing a distributed system that leverages **Multi-Agent Reinforcement Learning (MARL)**. This project focuses on **order matching**, **latency optimization**, and integrating **RL algorithms** like Q-Learning, DQN, PPO, and MARL.  
+  🔗 [HFT Simulation with MARL](https://github.com/YahyaMohamed3/HFT-MARL)
+
+- **UltraBook – High-Performance Market Microstructure Simulator**: A blazing-fast C++17 order book and matching engine capable of millions of orders/second with microsecond latencies. Includes a full **benchmark suite**, **stress testing framework**, and performance profiling for advanced market microstructure research.  
+  🔗 [UltraBook](https://github.com/YahyaMohamed3/UltraBook)
+
+- **MediFlow**: A healthcare management system built as a comprehensive platform for clinics and patient support.  
+  🔗 [MediFlow](https://github.com/YahyaMohamed3/MediFlow)
+
+- **DermaSense – Skin Cancer Detection Platform (World’s Largest Hackathon)**: Built and trained two SOTA models to identify **14 skin conditions** (including 7 cancers/precancerous lesions). Achieved **97% top-2 accuracy** on clinical images using TensorFlow. Deployed as a full-stack platform with **FastAPI backend (Google Cloud)**, **React/TypeScript frontend (Netlify)**, **Supabase for auth**, and **JWT-secured lesion tracking with RAG**.  
+  🔗 [DermaSense](https://github.com/YahyaMohamed3/Dermsense)
+
+- **Brand Style AI (Adobe 2025 Hackathon)**: A design-intelligence add-on that extracts **brand DNA** (colors, fonts, palettes) from logos/websites and generates editable Adobe Express templates. Built with **FastAPI**, **Supabase**, and **React/TypeScript**, with a strong focus on UX, automation, and hackathon-compliant deployment.  
+  🔗 [Brand Style AI](https://github.com/maythanhsuaung0-0/BrandExtract)
 
 ## 🔍 Research
 I'm actively involved in **Multi-Agent Reinforcement Learning (MARL) research** at my college, where I’m focused on how MARL can be applied to financial markets and trading simulations. This research aims to enhance my skills in **Distributed Systems** and **High-Frequency Trading**.
