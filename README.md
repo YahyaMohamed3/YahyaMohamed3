@@ -4,7 +4,7 @@
 Hello! I'm a second-year college student with a strong interest in **Software Engineering**, especially in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I have hands-on experience in developing systems for clinic platforms, and now high-frequency trading simulations.
 
 ### Education & Background
-I have completed several Harvard courses, including **CS50x**, **CS50W**, and **CS50 AI**, which strengthened my foundation in computer science and artificial intelligence. These courses, along with my personal projects and ongoing research, have given me a deep appreciation for the challenges and dedication involved in building reliable software solutions.
+I have completed several Harvard courses, including **CS50x**, **CS50W**, and **CS50 AI**, which strengthened my foundation in computer science and artificial intelligence as well as alot of school courses related to SQL, C++, Python and Data Structures and Algorithms. These courses, along with my personal projects and ongoing research, have given me a deep appreciation for the challenges and dedication involved in building reliable software solutions.
 
 ## 💼 Current Projects
 
