@@ -7,8 +7,6 @@ Hello! I'm a second-year college student with a strong interest in **Software En
 I have completed several Harvard courses, including **CS50x**, **CS50W**, and **CS50 AI**, which strengthened my foundation in computer science and artificial intelligence. These courses, along with my personal projects and ongoing research, have given me a deep appreciation for the challenges and dedication involved in building reliable software solutions.
 
 ## 💼 Current Projects
-- **High-Frequency Trading Simulation with RL**: Developing a distributed system that leverages **Multi-Agent Reinforcement Learning (MARL)**. This project focuses on **order matching**, **latency optimization**, and integrating **RL algorithms** like Q-Learning, DQN, PPO, and MARL.  
-  🔗 [HFT Simulation with MARL](https://github.com/YahyaMohamed3/HFT-MARL)
 
 - **UltraBook – High-Performance Market Microstructure Simulator**: A blazing-fast C++17 order book and matching engine capable of millions of orders/second with microsecond latencies. Includes a full **benchmark suite**, **stress testing framework**, and performance profiling for advanced market microstructure research.  
   🔗 [UltraBook](https://github.com/YahyaMohamed3/UltraBook)
